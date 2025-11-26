@@ -1,4 +1,4 @@
-# 🚀 AWS Re/Start: Learning Objectives & Curriculum Overview
+## 🚀 AWS Re/Start: Learning Objectives & Curriculum Overview
 
 This curriculum is structured to provide a comprehensive foundation in **cloud computing**, **Linux**, **Python**, **networking**, **security**, and **professional skills**. The program prepares individuals for entry-level cloud roles and the **AWS Certified Cloud Practitioner** exam.
 
