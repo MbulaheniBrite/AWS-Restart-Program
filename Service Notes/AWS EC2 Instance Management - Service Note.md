@@ -1,12 +1,12 @@
-## 🖥️ My AWS EC2 Instance Management Lab - Service Note
+## My AWS EC2 Instance Management Lab - Service Note
 
-## 📋 Quick Overview
+## Quick Overview
 
 **Lab Date:** 07-11-2025  
 **Lab Type:** EC2 Instance Launch, Management, and Monitoring  
 **Focus Area:** Foundational AWS Compute Services  
 **Completed By:** Brite Sendedza  
-**Status:** ✅ Successfully Completed
+**Status:** Successfully Completed
 
 ---
 
@@ -16,7 +16,7 @@ This lab gave me a solid introduction to launching, resizing, managing, and moni
 
 ---
 
-## 💡 So, What Exactly is Amazon EC2?
+## So, What Exactly is Amazon EC2?
 
 Amazon EC2 is designed to make cloud computing way easier for developers like me. Here's why I think it's pretty cool:
 
@@ -28,25 +28,25 @@ Amazon EC2 is designed to make cloud computing way easier for developers like me
 
 ---
 
-## 📚 What I Covered in This Lab
+## What I Covered in This Lab
 
 By the end of this lab, I successfully completed these core EC2 management tasks:
 
-### 🚀 Launch and Configuration
+### Launch and Configuration
 * I launched a web server with **termination protection enabled** (so I don't accidentally delete it)
 * I modified the **security group** for my web server to **allow HTTP access** on Port 80
 
-### 📊 Management and Scaling
+### Management and Scaling
 * I **monitored** my EC2 instance's health and performance metrics to see how it was doing
 * I **resized** my Amazon EC2 instance to scale its compute capacity (this is what they call Vertical Scaling)
 
-### 🔒 Protection and Cleanup
+### Protection and Cleanup
 * I tested **termination protection** to make sure the safeguard against accidental deletion was actually working
 * I **terminated** my EC2 instance once I finished all my testing
 
 ---
 
-## 🚧 Challenges I Faced
+## Challenges I Faced
 
 ### Time Pressure
 **What Happened:** Honestly, I didn't face too many technical challenges with this lab—it was pretty straightforward. The main thing working against me was time. I wanted to really explore and understand everything, but I had to keep moving to get through all the tasks.
