@@ -1,6 +1,6 @@
 ## 🛡️ How I Set Up AWS Network Firewall - Service Notes
 
-## 📋 Quick Overview
+## Quick Overview
 
 **When I Did This:** 06-12-2025 
 **What I Was Doing:** Setting up AWS Network Firewall  
@@ -16,7 +16,7 @@ So basically, I wanted to set up **AWS Network Firewall** to protect my network 
 
 ---
 
-## 🔧 The Tools I Used (And What They Actually Do)
+## The Tools I Used (And What They Actually Do)
 
 ### AWS Network Firewall
 **In Simple Terms:** Think of this as a really smart security guard for your network. It watches all the traffic coming in and going out, and it can block anything suspicious. It works at multiple levels of your network, which means it catches more threats.
@@ -40,7 +40,7 @@ So basically, I wanted to set up **AWS Network Firewall** to protect my network 
 
 ---
 
-## 📝 What I Actually Did (Step by Step)
+## What I Actually Did (Step by Step)
 
 ### 1. Testing Before I Started
 First, I wanted to see what things looked like without any protection. So I:
@@ -72,7 +72,7 @@ The moment of truth! I tried the same malware site connection again. And guess w
 
 ---
 
-## 🚧 Where I Got Stuck
+## Where I Got Stuck
 
 ### The Suricata Rules Thing
 **Here's What Happened:** So, the Suricata rule format was already there for me to use—I could download it and everything. But here's the thing: I had no idea what I was looking at. I mean, I could copy-paste the rules, but I didn't actually understand what they meant or how they worked. And I really hate just blindly copying stuff without understanding it.
@@ -81,7 +81,7 @@ The moment of truth! I tried the same malware site connection again. And guess w
 
 ---
 
-## ✅ How I Fixed It
+## How I Fixed It
 
 ### I Hit the Books (Well, the Internet)
 **What I Did:** I decided to actually learn about Suricata instead of just winging it. I found this really helpful documentation on the official Suricata website: https://docs.suricata.io/en/latest/rules/intro.html
@@ -98,7 +98,7 @@ I spent some time reading through it, and honestly, it was worth it.
 
 ---
 
-## 📊 Did It Actually Work?
+## Did It Actually Work?
 
 | What I Tested | Before I Set Up the Firewall | After I Set Up the Firewall | Did It Work? |
 | :--- | :--- | :--- | :--- |
@@ -118,7 +118,7 @@ I spent some time reading through it, and honestly, it was worth it.
 
 ---
 
-## 🔄 What I'd Do Next Time (Or Soon)
+## What I'd Do Next Time (Or Soon)
 
 * **Keep the Rules Updated:** I should regularly check for new threats and update my Suricata rules to stay ahead of the bad guys
 * **Add Better Monitoring:** I want to set up CloudWatch so I can see in real-time when things get blocked
@@ -127,7 +127,7 @@ I spent some time reading through it, and honestly, it was worth it.
 
 ---
 
-## 📎 Stuff I Referenced
+## Stuff I Referenced
 
 * Suricata Rule Documentation: https://docs.suricata.io/en/latest/rules/intro.html
 * AWS Network Firewall Documentation: [AWS Official Docs]
@@ -135,7 +135,7 @@ I spent some time reading through it, and honestly, it was worth it.
 
 ---
 
-## ✍️ Wrapping Up
+## Wrapping Up
 
 **Is Everything Done?** Yes!  
 **Is It More Secure Now?** Yes!  
