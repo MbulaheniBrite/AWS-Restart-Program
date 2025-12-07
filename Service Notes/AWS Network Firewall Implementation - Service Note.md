@@ -1,4 +1,4 @@
-## 🛡️ How I Set Up AWS Network Firewall - My Project Notes
+## 🛡️ How I Set Up AWS Network Firewall - Service Notes
 
 ## 📋 Quick Overview
 
