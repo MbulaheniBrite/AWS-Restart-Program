@@ -102,9 +102,9 @@ I spent some time reading through it, and honestly, it was worth it.
 
 | What I Tested | Before I Set Up the Firewall | After I Set Up the Firewall | Did It Work? |
 | :--- | :--- | :--- | :--- |
-| Trying to connect to a malware site | Connected fine (uh oh) | Connection blocked (yes!) | ✅ Perfect |
-| Downloading malware samples | Downloaded successfully (scary) | Access denied (phew!) | ✅ Perfect |
-| Normal, legitimate traffic | Worked fine | Still works fine | ✅ Perfect |
+| Trying to connect to a malware site | Connected fine (uh oh) | Connection blocked (yes!) | Perfect |
+| Downloading malware samples | Downloaded successfully (scary) | Access denied (phew!) | Perfect |
+| Normal, legitimate traffic | Worked fine | Still works fine | Perfect |
 
 **The Big Win:** I blocked 100% of the test connections to known bad websites, and all the normal stuff still works perfectly. That's exactly what I wanted!
 
