@@ -58,4 +58,4 @@ By the end of this lab, I successfully completed these core EC2 management tasks
 ### 🎓 What I Learned
 
 ### This Was Actually One of My Favorite Labs!
-**Why I Enjoyed It:** This was genuinely one of the labs I enjoyed the most during my training. Getting
+**Why I Enjoyed It:** This was genuinely one of the labs I enjoyed the most during my training.
