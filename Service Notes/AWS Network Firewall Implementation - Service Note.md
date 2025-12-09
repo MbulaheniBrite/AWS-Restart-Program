@@ -2,8 +2,8 @@
 
 ## Quick Overview
 
-**When I Did This:** 06-12-2025 
-**What I Was Doing:** Setting up AWS Network Firewall  
+**When I Did This:** 06-12-2025  
+**What I Was Doing:** Setting up AWS Network Firewall   
 **The Project:** Building protection against malware threats  
 **Who Did It:** Me, Brite Sendedza  
 **How It Went:**  Really well!
