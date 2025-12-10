@@ -9,13 +9,13 @@ First thing I did was navigate to the AWS Management Console and made sure I was
 What I did: I found the EC2 service either in the "Recently visited" section or by using the services search bar.
 Why this matters: The EC2 Dashboard is basically my central hub for launching instances, configuring security groups, and managing storage volumes.
 
-<img width="1831" height="700" alt="2" src="https://github.com/user-attachments/assets/68471bb2-e619-4127-b925-570cf2c6a314" />
+<img width="1831" height="700" alt="2" src="https://github.com/user-attachments/assets/8797b97d-8df1-433a-98c9-2dc09d116217" />
 
 2. 🖥️ Naming My Instance and Choosing the OS
 I started the "Launch instances" wizard to set up my instance's identity and pick the operating system.
-What I Configured, What I ChoseWhy I Chose ItName and TagsWeb Server. I gave it a descriptive name so I could easily identify it later. Application and OS ImageAmazon Linux 2023 AMI This gives me a stable, secure, and high-performance environment to work with.
+What I Configured, What I Chose, Why I Chose Its Name and Tags Web Server. I gave it a descriptive name so I could easily identify it later. Application and OS Image Amazon Linux 2023 AMI This gives me a stable, secure, and high-performance environment to work with.
 
-<img width="1848" height="762" alt="3" src="https://github.com/user-attachments/assets/b88871a6-2a74-44b4-8de8-d273e13dbb8a" />
+<img width="1848" height="762" alt="3" src="https://github.com/user-attachments/assets/c23a77f1-753f-4d9a-b18b-5610bec29b9a" />
 
 3. 🔒 Setting Up Network and Security Groups
 This part was really important because I needed to define my firewall rules and how my instance would communicate with the internet.
